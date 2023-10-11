@@ -27,9 +27,9 @@ To run the "IP Address Founder" project, follow these steps:
 This project is provided under an open-source license. You can find the license information in the source code files.
 
 ## Author
-[Your Name]
+Astitva Yadav
 
 ## Contact
-For questions or feedback, please contact [Your Email Address].
+For questions or feedback, please contact astitvaa22@gmail.com.
 
 Feel free to expand this README with additional information or instructions as needed.
